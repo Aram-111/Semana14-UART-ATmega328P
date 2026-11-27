@@ -3,6 +3,7 @@
 * **Curso:** Lenguajes de Interfaz (SCC-1014)
 * **Unidad:** 4 — Programación de Dispositivos
 * **Alumno(s):** Aram Gutierrez Alcantar - Andrés Gustavo Soto Torres
+* * **Matricula:** 23490544 - 21490586
 * **Fecha:** 27 de noviembre
 * **Hardware:** Arduino Uno (ATmega328P), LED externo + resistencia de 220 Ω
 
